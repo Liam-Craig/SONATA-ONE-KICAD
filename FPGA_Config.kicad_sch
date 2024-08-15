@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "cc098da4-0d12-4110-acbb-ac9ba1548e19")
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(title "<Enter Sheet Title>")
 	)
@@ -7449,131 +7449,131 @@
 		)
 	)
 	(junction
-		(at 472.44 354.33)
+		(at 214.63 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "191887bc-5800-474c-a4cf-c5064c887736")
 	)
 	(junction
-		(at 508 283.21)
+		(at 250.19 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a522023-9455-40eb-98a5-4eaeca1fdf12")
 	)
 	(junction
-		(at 350.52 327.66)
+		(at 92.71 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25782bea-a5e2-46fa-b539-ee8c70f807ab")
 	)
 	(junction
-		(at 492.76 300.99)
+		(at 234.95 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "34a05a4d-889e-4378-aebd-3842cc446da0")
 	)
 	(junction
-		(at 497.84 283.21)
+		(at 240.03 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44cc6fc4-b4f3-40b3-834f-341e556d8fc0")
 	)
 	(junction
-		(at 474.98 354.33)
+		(at 217.17 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5f0773a4-c70b-42af-a4f8-41cf93051321")
 	)
 	(junction
-		(at 403.86 327.66)
+		(at 146.05 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7b80625f-e97e-4782-9ace-6565e9c32748")
 	)
 	(junction
-		(at 480.06 400.05)
+		(at 222.25 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "83437411-8bd4-400e-92af-98118a6619f7")
 	)
 	(junction
-		(at 508 285.75)
+		(at 250.19 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b322a63-77ef-41c3-b543-a6ce5dea1662")
 	)
 	(junction
-		(at 447.04 265.43)
+		(at 189.23 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8cc9438e-5707-4f14-8b41-328ce06f1713")
 	)
 	(junction
-		(at 335.28 327.66)
+		(at 77.47 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "98b4e244-bc0d-485f-9d3d-d237dda79d79")
 	)
 	(junction
-		(at 464.82 384.81)
+		(at 207.01 193.04)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2d77e53-a3ce-40a3-9c4d-c1876fc90982")
 	)
 	(junction
-		(at 487.68 293.37)
+		(at 229.87 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "acc463e6-4c62-4d38-aab5-8986302dd533")
 	)
 	(junction
-		(at 457.2 265.43)
+		(at 199.39 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dac84b61-ff9e-4f63-a6e5-42d5516f018a")
 	)
 	(junction
-		(at 490.22 295.91)
+		(at 232.41 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dcc740a7-9a50-438e-8263-895ce98f0984")
 	)
 	(junction
-		(at 469.9 354.33)
+		(at 212.09 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9059838-1baf-47ac-a91e-897e9b261dcb")
 	)
 	(junction
-		(at 474.98 394.97)
+		(at 217.17 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed374f63-2470-4273-98fe-9f96403e6da8")
 	)
 	(junction
-		(at 469.9 389.89)
+		(at 212.09 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f12c8fb7-16a6-4ebe-8fb8-01944b1cfbce")
 	)
 	(no_connect
-		(at 525.78 326.39)
+		(at 267.97 134.62)
 		(uuid "3faaafa1-ee22-4fbf-9e57-e008602a792e")
 	)
 	(no_connect
-		(at 525.78 308.61)
+		(at 267.97 116.84)
 		(uuid "4e072413-8c10-4686-929a-76fb3e9edb74")
 	)
 	(no_connect
-		(at 525.78 311.15)
+		(at 267.97 119.38)
 		(uuid "9f4e7ba4-2805-4228-97fb-32c20487d817")
 	)
 	(no_connect
-		(at 525.78 323.85)
+		(at 267.97 132.08)
 		(uuid "f1c2097f-ad09-4e65-8c83-b2fe6b130324")
 	)
 	(bus_entry
-		(at 419.1 382.27)
+		(at 161.29 190.5)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -7582,7 +7582,7 @@
 		(uuid "027c42b8-e9a5-4906-9705-b1b201252305")
 	)
 	(bus_entry
-		(at 419.1 387.35)
+		(at 161.29 195.58)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -7591,7 +7591,7 @@
 		(uuid "0ea54c55-1bf1-4fb0-988e-0251e6a38c0a")
 	)
 	(bus_entry
-		(at 500.38 313.69)
+		(at 242.57 121.92)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -7600,7 +7600,7 @@
 		(uuid "3aaad778-40fa-4a4e-af71-29ef80280b3c")
 	)
 	(bus_entry
-		(at 490.22 259.08)
+		(at 232.41 67.31)
 		(size 2.54 -2.54)
 		(stroke
 			(width 0)
@@ -7609,7 +7609,7 @@
 		(uuid "5f83fa49-43c9-4b5e-b2f1-1823a346c1b3")
 	)
 	(bus_entry
-		(at 419.1 397.51)
+		(at 161.29 205.74)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -7618,7 +7618,7 @@
 		(uuid "81b00b7e-36c9-4d49-91c8-95c32874ff39")
 	)
 	(bus_entry
-		(at 487.68 259.08)
+		(at 229.87 67.31)
 		(size 2.54 -2.54)
 		(stroke
 			(width 0)
@@ -7627,7 +7627,7 @@
 		(uuid "99d9776c-437e-4e1f-af42-e5c8093d8a26")
 	)
 	(bus_entry
-		(at 500.38 316.23)
+		(at 242.57 124.46)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -7636,7 +7636,7 @@
 		(uuid "b22d42ea-a5b2-4e3b-a3b0-1199dab1af67")
 	)
 	(bus_entry
-		(at 419.1 392.43)
+		(at 161.29 200.66)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -7645,7 +7645,7 @@
 		(uuid "db7966e2-76f6-4102-948d-46c00a5faa4d")
 	)
 	(bus_entry
-		(at 508 259.08)
+		(at 250.19 67.31)
 		(size 2.54 -2.54)
 		(stroke
 			(width 0)
@@ -7654,7 +7654,7 @@
 		(uuid "eba33788-e18b-44df-a9fd-36cf61e8455b")
 	)
 	(bus_entry
-		(at 492.76 259.08)
+		(at 234.95 67.31)
 		(size 2.54 -2.54)
 		(stroke
 			(width 0)
@@ -7664,7 +7664,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 288.29) (xy 508 285.75)
+			(xy 250.19 96.52) (xy 250.19 93.98)
 		)
 		(stroke
 			(width 0)
@@ -7674,7 +7674,7 @@
 	)
 	(wire
 		(pts
-			(xy 464.82 367.03) (xy 464.82 384.81)
+			(xy 207.01 175.26) (xy 207.01 193.04)
 		)
 		(stroke
 			(width 0)
@@ -7684,7 +7684,7 @@
 	)
 	(wire
 		(pts
-			(xy 447.04 265.43) (xy 457.2 265.43)
+			(xy 189.23 73.66) (xy 199.39 73.66)
 		)
 		(stroke
 			(width 0)
@@ -7694,7 +7694,7 @@
 	)
 	(wire
 		(pts
-			(xy 490.22 295.91) (xy 457.2 295.91)
+			(xy 232.41 104.14) (xy 199.39 104.14)
 		)
 		(stroke
 			(width 0)
@@ -7704,7 +7704,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 327.66) (xy 350.52 327.66)
+			(xy 77.47 135.89) (xy 92.71 135.89)
 		)
 		(stroke
 			(width 0)
@@ -7714,7 +7714,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 285.75) (xy 508 283.21)
+			(xy 250.19 93.98) (xy 250.19 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7724,7 +7724,7 @@
 	)
 	(wire
 		(pts
-			(xy 469.9 389.89) (xy 497.84 389.89)
+			(xy 212.09 198.12) (xy 240.03 198.12)
 		)
 		(stroke
 			(width 0)
@@ -7734,7 +7734,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 259.08) (xy 508 280.67)
+			(xy 250.19 67.31) (xy 250.19 88.9)
 		)
 		(stroke
 			(width 0)
@@ -7744,7 +7744,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 335.28) (xy 335.28 335.28)
+			(xy 92.71 143.51) (xy 77.47 143.51)
 		)
 		(stroke
 			(width 0)
@@ -7754,7 +7754,7 @@
 	)
 	(wire
 		(pts
-			(xy 447.04 265.43) (xy 447.04 267.97)
+			(xy 189.23 73.66) (xy 189.23 76.2)
 		)
 		(stroke
 			(width 0)
@@ -7764,7 +7764,7 @@
 	)
 	(wire
 		(pts
-			(xy 497.84 283.21) (xy 497.84 303.53)
+			(xy 240.03 91.44) (xy 240.03 111.76)
 		)
 		(stroke
 			(width 0)
@@ -7774,7 +7774,7 @@
 	)
 	(bus
 		(pts
-			(xy 492.76 256.54) (xy 495.3 256.54)
+			(xy 234.95 64.77) (xy 237.49 64.77)
 		)
 		(stroke
 			(width 0)
@@ -7784,7 +7784,7 @@
 	)
 	(wire
 		(pts
-			(xy 525.78 318.77) (xy 502.92 318.77)
+			(xy 267.97 127) (xy 245.11 127)
 		)
 		(stroke
 			(width 0)
@@ -7794,7 +7794,7 @@
 	)
 	(wire
 		(pts
-			(xy 419.1 327.66) (xy 436.88 327.66)
+			(xy 161.29 135.89) (xy 179.07 135.89)
 		)
 		(stroke
 			(width 0)
@@ -7804,7 +7804,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 327.66) (xy 403.86 327.66)
+			(xy 133.35 135.89) (xy 146.05 135.89)
 		)
 		(stroke
 			(width 0)
@@ -7814,7 +7814,7 @@
 	)
 	(wire
 		(pts
-			(xy 525.78 295.91) (xy 490.22 295.91)
+			(xy 267.97 104.14) (xy 232.41 104.14)
 		)
 		(stroke
 			(width 0)
@@ -7824,7 +7824,7 @@
 	)
 	(wire
 		(pts
-			(xy 492.76 300.99) (xy 525.78 300.99)
+			(xy 234.95 109.22) (xy 267.97 109.22)
 		)
 		(stroke
 			(width 0)
@@ -7834,7 +7834,7 @@
 	)
 	(wire
 		(pts
-			(xy 457.2 295.91) (xy 457.2 278.13)
+			(xy 199.39 104.14) (xy 199.39 86.36)
 		)
 		(stroke
 			(width 0)
@@ -7844,7 +7844,7 @@
 	)
 	(wire
 		(pts
-			(xy 497.84 280.67) (xy 497.84 283.21)
+			(xy 240.03 88.9) (xy 240.03 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7854,7 +7854,7 @@
 	)
 	(wire
 		(pts
-			(xy 525.78 288.29) (xy 508 288.29)
+			(xy 267.97 96.52) (xy 250.19 96.52)
 		)
 		(stroke
 			(width 0)
@@ -7864,7 +7864,7 @@
 	)
 	(wire
 		(pts
-			(xy 492.76 259.08) (xy 492.76 300.99)
+			(xy 234.95 67.31) (xy 234.95 109.22)
 		)
 		(stroke
 			(width 0)
@@ -7874,7 +7874,7 @@
 	)
 	(wire
 		(pts
-			(xy 474.98 356.87) (xy 474.98 354.33)
+			(xy 217.17 165.1) (xy 217.17 162.56)
 		)
 		(stroke
 			(width 0)
@@ -7884,7 +7884,7 @@
 	)
 	(wire
 		(pts
-			(xy 513.08 275.59) (xy 525.78 275.59)
+			(xy 255.27 83.82) (xy 267.97 83.82)
 		)
 		(stroke
 			(width 0)
@@ -7894,7 +7894,7 @@
 	)
 	(wire
 		(pts
-			(xy 447.04 300.99) (xy 492.76 300.99)
+			(xy 189.23 109.22) (xy 234.95 109.22)
 		)
 		(stroke
 			(width 0)
@@ -7904,7 +7904,7 @@
 	)
 	(wire
 		(pts
-			(xy 487.68 259.08) (xy 487.68 293.37)
+			(xy 229.87 67.31) (xy 229.87 101.6)
 		)
 		(stroke
 			(width 0)
@@ -7914,7 +7914,7 @@
 	)
 	(bus
 		(pts
-			(xy 500.38 313.69) (xy 500.38 316.23)
+			(xy 242.57 121.92) (xy 242.57 124.46)
 		)
 		(stroke
 			(width 0)
@@ -7924,7 +7924,7 @@
 	)
 	(wire
 		(pts
-			(xy 513.08 267.97) (xy 525.78 267.97)
+			(xy 255.27 76.2) (xy 267.97 76.2)
 		)
 		(stroke
 			(width 0)
@@ -7934,7 +7934,7 @@
 	)
 	(bus
 		(pts
-			(xy 419.1 382.27) (xy 419.1 387.35)
+			(xy 161.29 190.5) (xy 161.29 195.58)
 		)
 		(stroke
 			(width 0)
@@ -7944,7 +7944,7 @@
 	)
 	(wire
 		(pts
-			(xy 474.98 394.97) (xy 497.84 394.97)
+			(xy 217.17 203.2) (xy 240.03 203.2)
 		)
 		(stroke
 			(width 0)
@@ -7954,7 +7954,7 @@
 	)
 	(wire
 		(pts
-			(xy 439.42 384.81) (xy 421.64 384.81)
+			(xy 181.61 193.04) (xy 163.83 193.04)
 		)
 		(stroke
 			(width 0)
@@ -7964,7 +7964,7 @@
 	)
 	(wire
 		(pts
-			(xy 467.36 267.97) (xy 467.36 265.43)
+			(xy 209.55 76.2) (xy 209.55 73.66)
 		)
 		(stroke
 			(width 0)
@@ -7974,7 +7974,7 @@
 	)
 	(wire
 		(pts
-			(xy 469.9 377.19) (xy 469.9 389.89)
+			(xy 212.09 185.42) (xy 212.09 198.12)
 		)
 		(stroke
 			(width 0)
@@ -7984,7 +7984,7 @@
 	)
 	(wire
 		(pts
-			(xy 525.78 280.67) (xy 508 280.67)
+			(xy 267.97 88.9) (xy 250.19 88.9)
 		)
 		(stroke
 			(width 0)
@@ -7994,7 +7994,7 @@
 	)
 	(wire
 		(pts
-			(xy 447.04 262.89) (xy 447.04 265.43)
+			(xy 189.23 71.12) (xy 189.23 73.66)
 		)
 		(stroke
 			(width 0)
@@ -8004,7 +8004,7 @@
 	)
 	(wire
 		(pts
-			(xy 459.74 394.97) (xy 474.98 394.97)
+			(xy 201.93 203.2) (xy 217.17 203.2)
 		)
 		(stroke
 			(width 0)
@@ -8014,7 +8014,7 @@
 	)
 	(wire
 		(pts
-			(xy 541.02 369.57) (xy 525.78 369.57)
+			(xy 283.21 177.8) (xy 267.97 177.8)
 		)
 		(stroke
 			(width 0)
@@ -8024,7 +8024,7 @@
 	)
 	(wire
 		(pts
-			(xy 467.36 265.43) (xy 457.2 265.43)
+			(xy 209.55 73.66) (xy 199.39 73.66)
 		)
 		(stroke
 			(width 0)
@@ -8034,7 +8034,7 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 337.82) (xy 403.86 337.82)
+			(xy 151.13 146.05) (xy 146.05 146.05)
 		)
 		(stroke
 			(width 0)
@@ -8044,7 +8044,7 @@
 	)
 	(wire
 		(pts
-			(xy 419.1 337.82) (xy 436.88 337.82)
+			(xy 161.29 146.05) (xy 179.07 146.05)
 		)
 		(stroke
 			(width 0)
@@ -8054,7 +8054,7 @@
 	)
 	(wire
 		(pts
-			(xy 490.22 259.08) (xy 490.22 295.91)
+			(xy 232.41 67.31) (xy 232.41 104.14)
 		)
 		(stroke
 			(width 0)
@@ -8064,7 +8064,7 @@
 	)
 	(wire
 		(pts
-			(xy 513.08 273.05) (xy 525.78 273.05)
+			(xy 255.27 81.28) (xy 267.97 81.28)
 		)
 		(stroke
 			(width 0)
@@ -8074,7 +8074,7 @@
 	)
 	(wire
 		(pts
-			(xy 439.42 400.05) (xy 421.64 400.05)
+			(xy 181.61 208.28) (xy 163.83 208.28)
 		)
 		(stroke
 			(width 0)
@@ -8084,7 +8084,7 @@
 	)
 	(bus
 		(pts
-			(xy 500.38 311.15) (xy 497.84 308.61)
+			(xy 242.57 119.38) (xy 240.03 116.84)
 		)
 		(stroke
 			(width 0)
@@ -8094,7 +8094,7 @@
 	)
 	(wire
 		(pts
-			(xy 525.78 293.37) (xy 487.68 293.37)
+			(xy 267.97 101.6) (xy 229.87 101.6)
 		)
 		(stroke
 			(width 0)
@@ -8104,7 +8104,7 @@
 	)
 	(wire
 		(pts
-			(xy 561.34 369.57) (xy 571.5 369.57)
+			(xy 303.53 177.8) (xy 313.69 177.8)
 		)
 		(stroke
 			(width 0)
@@ -8114,7 +8114,7 @@
 	)
 	(wire
 		(pts
-			(xy 457.2 265.43) (xy 457.2 267.97)
+			(xy 199.39 73.66) (xy 199.39 76.2)
 		)
 		(stroke
 			(width 0)
@@ -8124,7 +8124,7 @@
 	)
 	(bus
 		(pts
-			(xy 500.38 311.15) (xy 500.38 313.69)
+			(xy 242.57 119.38) (xy 242.57 121.92)
 		)
 		(stroke
 			(width 0)
@@ -8134,7 +8134,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 335.28) (xy 335.28 327.66)
+			(xy 77.47 143.51) (xy 77.47 135.89)
 		)
 		(stroke
 			(width 0)
@@ -8144,7 +8144,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 309.88) (xy 350.52 327.66)
+			(xy 92.71 118.11) (xy 92.71 135.89)
 		)
 		(stroke
 			(width 0)
@@ -8154,7 +8154,7 @@
 	)
 	(wire
 		(pts
-			(xy 467.36 293.37) (xy 467.36 278.13)
+			(xy 209.55 101.6) (xy 209.55 86.36)
 		)
 		(stroke
 			(width 0)
@@ -8164,7 +8164,7 @@
 	)
 	(bus
 		(pts
-			(xy 495.3 256.54) (xy 510.54 256.54)
+			(xy 237.49 64.77) (xy 252.73 64.77)
 		)
 		(stroke
 			(width 0)
@@ -8174,7 +8174,7 @@
 	)
 	(bus
 		(pts
-			(xy 419.1 387.35) (xy 419.1 392.43)
+			(xy 161.29 195.58) (xy 161.29 200.66)
 		)
 		(stroke
 			(width 0)
@@ -8184,7 +8184,7 @@
 	)
 	(bus
 		(pts
-			(xy 419.1 379.73) (xy 419.1 382.27)
+			(xy 161.29 187.96) (xy 161.29 190.5)
 		)
 		(stroke
 			(width 0)
@@ -8194,7 +8194,7 @@
 	)
 	(wire
 		(pts
-			(xy 459.74 389.89) (xy 469.9 389.89)
+			(xy 201.93 198.12) (xy 212.09 198.12)
 		)
 		(stroke
 			(width 0)
@@ -8204,7 +8204,7 @@
 	)
 	(wire
 		(pts
-			(xy 513.08 270.51) (xy 525.78 270.51)
+			(xy 255.27 78.74) (xy 267.97 78.74)
 		)
 		(stroke
 			(width 0)
@@ -8214,7 +8214,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 283.21) (xy 497.84 283.21)
+			(xy 250.19 91.44) (xy 240.03 91.44)
 		)
 		(stroke
 			(width 0)
@@ -8224,7 +8224,7 @@
 	)
 	(wire
 		(pts
-			(xy 497.84 303.53) (xy 525.78 303.53)
+			(xy 240.03 111.76) (xy 267.97 111.76)
 		)
 		(stroke
 			(width 0)
@@ -8234,7 +8234,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 327.66) (xy 335.28 322.58)
+			(xy 77.47 135.89) (xy 77.47 130.81)
 		)
 		(stroke
 			(width 0)
@@ -8244,7 +8244,7 @@
 	)
 	(wire
 		(pts
-			(xy 561.34 372.11) (xy 566.42 372.11)
+			(xy 303.53 180.34) (xy 308.61 180.34)
 		)
 		(stroke
 			(width 0)
@@ -8254,7 +8254,7 @@
 	)
 	(wire
 		(pts
-			(xy 403.86 327.66) (xy 408.94 327.66)
+			(xy 146.05 135.89) (xy 151.13 135.89)
 		)
 		(stroke
 			(width 0)
@@ -8264,7 +8264,7 @@
 	)
 	(wire
 		(pts
-			(xy 480.06 400.05) (xy 497.84 400.05)
+			(xy 222.25 208.28) (xy 240.03 208.28)
 		)
 		(stroke
 			(width 0)
@@ -8274,7 +8274,7 @@
 	)
 	(wire
 		(pts
-			(xy 396.24 335.28) (xy 396.24 342.9)
+			(xy 138.43 143.51) (xy 138.43 151.13)
 		)
 		(stroke
 			(width 0)
@@ -8284,7 +8284,7 @@
 	)
 	(wire
 		(pts
-			(xy 474.98 354.33) (xy 480.06 354.33)
+			(xy 217.17 162.56) (xy 222.25 162.56)
 		)
 		(stroke
 			(width 0)
@@ -8294,7 +8294,7 @@
 	)
 	(wire
 		(pts
-			(xy 487.68 293.37) (xy 467.36 293.37)
+			(xy 229.87 101.6) (xy 209.55 101.6)
 		)
 		(stroke
 			(width 0)
@@ -8304,7 +8304,7 @@
 	)
 	(wire
 		(pts
-			(xy 464.82 354.33) (xy 469.9 354.33)
+			(xy 207.01 162.56) (xy 212.09 162.56)
 		)
 		(stroke
 			(width 0)
@@ -8314,7 +8314,7 @@
 	)
 	(bus
 		(pts
-			(xy 510.54 256.54) (xy 562.61 256.54)
+			(xy 252.73 64.77) (xy 304.8 64.77)
 		)
 		(stroke
 			(width 0)
@@ -8324,7 +8324,7 @@
 	)
 	(bus
 		(pts
-			(xy 490.22 256.54) (xy 492.76 256.54)
+			(xy 232.41 64.77) (xy 234.95 64.77)
 		)
 		(stroke
 			(width 0)
@@ -8334,7 +8334,7 @@
 	)
 	(wire
 		(pts
-			(xy 464.82 384.81) (xy 497.84 384.81)
+			(xy 207.01 193.04) (xy 240.03 193.04)
 		)
 		(stroke
 			(width 0)
@@ -8344,7 +8344,7 @@
 	)
 	(wire
 		(pts
-			(xy 381 309.88) (xy 381 314.96)
+			(xy 123.19 118.11) (xy 123.19 123.19)
 		)
 		(stroke
 			(width 0)
@@ -8354,7 +8354,7 @@
 	)
 	(wire
 		(pts
-			(xy 469.9 354.33) (xy 472.44 354.33)
+			(xy 212.09 162.56) (xy 214.63 162.56)
 		)
 		(stroke
 			(width 0)
@@ -8364,7 +8364,7 @@
 	)
 	(wire
 		(pts
-			(xy 566.42 367.03) (xy 566.42 364.49)
+			(xy 308.61 175.26) (xy 308.61 172.72)
 		)
 		(stroke
 			(width 0)
@@ -8374,7 +8374,7 @@
 	)
 	(wire
 		(pts
-			(xy 480.06 377.19) (xy 480.06 400.05)
+			(xy 222.25 185.42) (xy 222.25 208.28)
 		)
 		(stroke
 			(width 0)
@@ -8384,7 +8384,7 @@
 	)
 	(wire
 		(pts
-			(xy 459.74 384.81) (xy 464.82 384.81)
+			(xy 201.93 193.04) (xy 207.01 193.04)
 		)
 		(stroke
 			(width 0)
@@ -8394,7 +8394,7 @@
 	)
 	(wire
 		(pts
-			(xy 541.02 367.03) (xy 525.78 367.03)
+			(xy 283.21 175.26) (xy 267.97 175.26)
 		)
 		(stroke
 			(width 0)
@@ -8404,7 +8404,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 309.88) (xy 350.52 309.88)
+			(xy 105.41 118.11) (xy 92.71 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8414,7 +8414,7 @@
 	)
 	(bus
 		(pts
-			(xy 419.1 379.73) (xy 416.56 377.19)
+			(xy 161.29 187.96) (xy 158.75 185.42)
 		)
 		(stroke
 			(width 0)
@@ -8424,7 +8424,7 @@
 	)
 	(wire
 		(pts
-			(xy 370.84 309.88) (xy 381 309.88)
+			(xy 113.03 118.11) (xy 123.19 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8434,7 +8434,7 @@
 	)
 	(wire
 		(pts
-			(xy 459.74 400.05) (xy 480.06 400.05)
+			(xy 201.93 208.28) (xy 222.25 208.28)
 		)
 		(stroke
 			(width 0)
@@ -8444,7 +8444,7 @@
 	)
 	(wire
 		(pts
-			(xy 508 283.21) (xy 525.78 283.21)
+			(xy 250.19 91.44) (xy 267.97 91.44)
 		)
 		(stroke
 			(width 0)
@@ -8454,7 +8454,7 @@
 	)
 	(wire
 		(pts
-			(xy 566.42 372.11) (xy 566.42 377.19)
+			(xy 308.61 180.34) (xy 308.61 185.42)
 		)
 		(stroke
 			(width 0)
@@ -8464,7 +8464,7 @@
 	)
 	(wire
 		(pts
-			(xy 439.42 389.89) (xy 421.64 389.89)
+			(xy 181.61 198.12) (xy 163.83 198.12)
 		)
 		(stroke
 			(width 0)
@@ -8474,7 +8474,7 @@
 	)
 	(bus
 		(pts
-			(xy 370.84 377.19) (xy 416.56 377.19)
+			(xy 113.03 185.42) (xy 158.75 185.42)
 		)
 		(stroke
 			(width 0)
@@ -8484,7 +8484,7 @@
 	)
 	(bus
 		(pts
-			(xy 462.28 308.61) (xy 497.84 308.61)
+			(xy 204.47 116.84) (xy 240.03 116.84)
 		)
 		(stroke
 			(width 0)
@@ -8494,7 +8494,7 @@
 	)
 	(wire
 		(pts
-			(xy 480.06 354.33) (xy 480.06 367.03)
+			(xy 222.25 162.56) (xy 222.25 175.26)
 		)
 		(stroke
 			(width 0)
@@ -8504,7 +8504,7 @@
 	)
 	(wire
 		(pts
-			(xy 474.98 367.03) (xy 474.98 394.97)
+			(xy 217.17 175.26) (xy 217.17 203.2)
 		)
 		(stroke
 			(width 0)
@@ -8514,7 +8514,7 @@
 	)
 	(bus
 		(pts
-			(xy 419.1 392.43) (xy 419.1 397.51)
+			(xy 161.29 200.66) (xy 161.29 205.74)
 		)
 		(stroke
 			(width 0)
@@ -8524,7 +8524,7 @@
 	)
 	(wire
 		(pts
-			(xy 541.02 372.11) (xy 525.78 372.11)
+			(xy 283.21 180.34) (xy 267.97 180.34)
 		)
 		(stroke
 			(width 0)
@@ -8534,7 +8534,7 @@
 	)
 	(wire
 		(pts
-			(xy 472.44 354.33) (xy 474.98 354.33)
+			(xy 214.63 162.56) (xy 217.17 162.56)
 		)
 		(stroke
 			(width 0)
@@ -8544,7 +8544,7 @@
 	)
 	(wire
 		(pts
-			(xy 469.9 367.03) (xy 469.9 354.33)
+			(xy 212.09 175.26) (xy 212.09 162.56)
 		)
 		(stroke
 			(width 0)
@@ -8554,7 +8554,7 @@
 	)
 	(wire
 		(pts
-			(xy 447.04 278.13) (xy 447.04 300.99)
+			(xy 189.23 86.36) (xy 189.23 109.22)
 		)
 		(stroke
 			(width 0)
@@ -8564,7 +8564,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 335.28) (xy 396.24 335.28)
+			(xy 133.35 143.51) (xy 138.43 143.51)
 		)
 		(stroke
 			(width 0)
@@ -8574,7 +8574,7 @@
 	)
 	(wire
 		(pts
-			(xy 561.34 367.03) (xy 566.42 367.03)
+			(xy 303.53 175.26) (xy 308.61 175.26)
 		)
 		(stroke
 			(width 0)
@@ -8584,7 +8584,7 @@
 	)
 	(wire
 		(pts
-			(xy 502.92 316.23) (xy 525.78 316.23)
+			(xy 245.11 124.46) (xy 267.97 124.46)
 		)
 		(stroke
 			(width 0)
@@ -8594,7 +8594,7 @@
 	)
 	(wire
 		(pts
-			(xy 525.78 285.75) (xy 508 285.75)
+			(xy 267.97 93.98) (xy 250.19 93.98)
 		)
 		(stroke
 			(width 0)
@@ -8604,7 +8604,7 @@
 	)
 	(wire
 		(pts
-			(xy 403.86 337.82) (xy 403.86 327.66)
+			(xy 146.05 146.05) (xy 146.05 135.89)
 		)
 		(stroke
 			(width 0)
@@ -8614,7 +8614,7 @@
 	)
 	(wire
 		(pts
-			(xy 439.42 394.97) (xy 421.64 394.97)
+			(xy 181.61 203.2) (xy 163.83 203.2)
 		)
 		(stroke
 			(width 0)
@@ -8624,7 +8624,7 @@
 	)
 	(wire
 		(pts
-			(xy 464.82 356.87) (xy 464.82 354.33)
+			(xy 207.01 165.1) (xy 207.01 162.56)
 		)
 		(stroke
 			(width 0)
@@ -8634,7 +8634,7 @@
 	)
 	(text_box "Non-standard. Roughly based on AVR 6-pin ISP header."
 		(exclude_from_sim no)
-		(at 528.32 389.89 0)
+		(at 270.51 198.12 0)
 		(size 43.18 7.62)
 		(stroke
 			(width 0)
@@ -8655,7 +8655,7 @@
 	)
 	(text_box "PCB: Place near Y2"
 		(exclude_from_sim no)
-		(at 439.166 315.214 0)
+		(at 181.356 123.444 0)
 		(size -38.1 7.62)
 		(stroke
 			(width 0)
@@ -8676,7 +8676,7 @@
 	)
 	(text_box "Isolate FTDI from JTAG port to use external JTAG cable for FPGA."
 		(exclude_from_sim no)
-		(at 472.186 407.924 0)
+		(at 214.376 216.154 0)
 		(size -38.1 7.62)
 		(stroke
 			(width 0)
@@ -8696,7 +8696,7 @@
 		(uuid "7d4c929e-f405-4541-bdbe-3b2b9897e183")
 	)
 	(label "{FPGA_DONE FPGA_INITB FPGA_PGMB FPGA_CCLK}"
-		(at 513.08 256.54 0)
+		(at 255.27 64.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8707,7 +8707,7 @@
 		(uuid "020cd6fc-de53-4ae7-822e-52493eba08af")
 	)
 	(label "XADC_VREF_P"
-		(at 505.46 316.23 0)
+		(at 247.65 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8718,7 +8718,7 @@
 		(uuid "0883c741-8007-4b3a-8488-21c7dc4a0a62")
 	)
 	(label "FPGA_TCK"
-		(at 513.08 273.05 0)
+		(at 255.27 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8729,7 +8729,7 @@
 		(uuid "0f010410-fd4f-45c1-9334-bf35f00a0d8f")
 	)
 	(label "FPGA_TCK"
-		(at 485.14 394.97 0)
+		(at 227.33 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8740,7 +8740,7 @@
 		(uuid "2259f29f-88ce-4d16-bf8d-f2b257c5e38f")
 	)
 	(label "ETHCLK"
-		(at 424.18 337.82 0)
+		(at 166.37 146.05 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8751,7 +8751,7 @@
 		(uuid "398bed03-f41d-4b2b-a749-ffbf773de06e")
 	)
 	(label "XADC_VREF_N"
-		(at 505.46 318.77 0)
+		(at 247.65 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8762,7 +8762,7 @@
 		(uuid "4356152e-4996-400f-b8db-f837b1ab1e3e")
 	)
 	(label "MAINCLK"
-		(at 424.18 327.66 0)
+		(at 166.37 135.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8773,7 +8773,7 @@
 		(uuid "46748619-561b-410a-9d29-d22d35a43393")
 	)
 	(label "FPGA_DONE"
-		(at 510.54 293.37 0)
+		(at 252.73 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8784,7 +8784,7 @@
 		(uuid "4a1728e2-7075-421d-a299-80464bc3e934")
 	)
 	(label "FPGA_INITB"
-		(at 510.54 295.91 0)
+		(at 252.73 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8795,7 +8795,7 @@
 		(uuid "4e42eedf-bc5f-4f4b-842d-8ed4b9fc7fbe")
 	)
 	(label "FPGA_TMS"
-		(at 485.14 400.05 0)
+		(at 227.33 208.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8806,7 +8806,7 @@
 		(uuid "51dd0dad-9a89-447e-b7b3-cbebbccc05c9")
 	)
 	(label "FPGA_TDO"
-		(at 513.08 270.51 0)
+		(at 255.27 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8817,7 +8817,7 @@
 		(uuid "5d5caae5-86df-403c-a0a7-9e14030527f9")
 	)
 	(label "FPGA_TMS"
-		(at 528.32 372.11 0)
+		(at 270.51 180.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8828,7 +8828,7 @@
 		(uuid "5ef2c509-cda7-4d18-8534-6349aec17d84")
 	)
 	(label "{CHA_TCK CHA_TDI CHA_TDO CHA_TMS}"
-		(at 374.65 377.19 0)
+		(at 116.84 185.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8839,7 +8839,7 @@
 		(uuid "64c90e4f-3ece-482c-b74c-9d6b40c973d2")
 	)
 	(label "{XADC_VREF_P XADC_VREF_N}"
-		(at 464.82 308.61 0)
+		(at 207.01 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8850,7 +8850,7 @@
 		(uuid "7900e662-b59c-4612-8d6c-f85bbae8b2c6")
 	)
 	(label "FPGA_TDI"
-		(at 528.32 367.03 0)
+		(at 270.51 175.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8861,7 +8861,7 @@
 		(uuid "7a2aa8f5-3cdb-4bcb-9732-f275ebfaa89f")
 	)
 	(label "FPGA_TDI"
-		(at 485.14 384.81 0)
+		(at 227.33 193.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8872,7 +8872,7 @@
 		(uuid "7d7dfa40-24c7-4a20-87a3-e4d086f4f8bc")
 	)
 	(label "FPGA_TMS"
-		(at 513.08 275.59 0)
+		(at 255.27 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8883,7 +8883,7 @@
 		(uuid "9bdfdefc-5003-4641-90ce-076601b4e497")
 	)
 	(label "FPGA_TDI"
-		(at 513.08 267.97 0)
+		(at 255.27 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8894,7 +8894,7 @@
 		(uuid "9c8eb1a8-8115-4a18-872d-51978b978e13")
 	)
 	(label "CHA_TCK"
-		(at 424.18 394.97 0)
+		(at 166.37 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8905,7 +8905,7 @@
 		(uuid "b4b46073-50be-488f-bfbb-4223e05ef076")
 	)
 	(label "CHA_TDO"
-		(at 424.18 389.89 0)
+		(at 166.37 198.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8916,7 +8916,7 @@
 		(uuid "bf004f5a-df94-4637-93ad-31a74526f908")
 	)
 	(label "CHA_TDI"
-		(at 424.18 384.81 0)
+		(at 166.37 193.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8927,7 +8927,7 @@
 		(uuid "c071097c-2122-42a4-86b5-a15bdfa099d4")
 	)
 	(label "FPGA_TDO"
-		(at 561.34 369.57 0)
+		(at 303.53 177.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8938,7 +8938,7 @@
 		(uuid "c299f138-9b32-4c8f-b2a2-6d82cfae2c14")
 	)
 	(label "FPGA_TCK"
-		(at 528.32 369.57 0)
+		(at 270.51 177.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8949,7 +8949,7 @@
 		(uuid "dc4bb3e0-f7ce-4686-85b9-5cdbca41a4bf")
 	)
 	(label "FPGA_TDO"
-		(at 485.14 389.89 0)
+		(at 227.33 198.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8960,7 +8960,7 @@
 		(uuid "e16e4485-b090-435c-bd19-aa88ca740fae")
 	)
 	(label "FPGA_PGMB"
-		(at 510.54 300.99 0)
+		(at 252.73 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8971,7 +8971,7 @@
 		(uuid "e567e7ae-ae3d-47e3-a6c7-a4011cbfa6cf")
 	)
 	(label "CHA_TMS"
-		(at 424.18 400.05 0)
+		(at 166.37 208.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8982,7 +8982,7 @@
 		(uuid "ed56feab-57c3-424f-b650-bea9789f6c2e")
 	)
 	(label "FPGA_CCLK"
-		(at 510.54 280.67 0)
+		(at 252.73 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8994,7 +8994,7 @@
 	)
 	(hierarchical_label "ETHCLK"
 		(shape bidirectional)
-		(at 436.88 337.82 0)
+		(at 179.07 146.05 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9006,7 +9006,7 @@
 	)
 	(hierarchical_label "CHA"
 		(shape bidirectional)
-		(at 370.84 377.19 180)
+		(at 113.03 185.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9018,7 +9018,7 @@
 	)
 	(hierarchical_label "FPGA"
 		(shape bidirectional)
-		(at 562.61 256.54 0)
+		(at 304.8 64.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9030,7 +9030,7 @@
 	)
 	(hierarchical_label "XADC_VREF"
 		(shape bidirectional)
-		(at 462.28 308.61 180)
+		(at 204.47 116.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9042,7 +9042,7 @@
 	)
 	(hierarchical_label "MAINCLK"
 		(shape bidirectional)
-		(at 436.88 327.66 0)
+		(at 179.07 135.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9054,7 +9054,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_1_CAP")
-		(at 368.3 309.88 0)
+		(at 110.49 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9062,7 +9062,7 @@
 		(dnp no)
 		(uuid "07b11f24-fcba-4ffc-83cd-e7d91c3e389f")
 		(property "Reference" "C141"
-			(at 365.506 307.594 0)
+			(at 107.696 115.824 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9071,7 +9071,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 365.506 314.706 0)
+			(at 107.696 122.936 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9080,7 +9080,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:CAPC0402_M"
-			(at 368.3 309.88 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9089,7 +9089,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 368.3 309.88 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9098,7 +9098,7 @@
 			)
 		)
 		(property "Description" "100n, 0603"
-			(at 368.3 309.88 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9107,7 +9107,7 @@
 			)
 		)
 		(property "MANUFACTURE PART NUMBER 1" "CGA2B3X7R1V104K050BB"
-			(at 362.712 307.594 0)
+			(at 104.902 115.824 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9133,7 +9133,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_RES-EU")
-		(at 464.82 361.95 0)
+		(at 207.01 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9141,7 +9141,7 @@
 		(dnp no)
 		(uuid "2af8ae29-555d-4d0c-b983-194f4475a35e")
 		(property "Reference" "R118"
-			(at 465.836 361.95 0)
+			(at 208.026 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9150,7 +9150,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 465.836 364.49 0)
+			(at 208.026 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9159,7 +9159,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:RESC1005X40N"
-			(at 464.82 361.95 0)
+			(at 207.01 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9168,7 +9168,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 464.82 361.95 0)
+			(at 207.01 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9177,7 +9177,7 @@
 			)
 		)
 		(property "Description" "10k res, 0402, 1%, 1/16W"
-			(at 464.82 361.95 0)
+			(at 207.01 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9186,7 +9186,7 @@
 			)
 		)
 		(property "MANUFACTURE PART NUMBER 1" "RC0402FR-07100KL"
-			(at 463.804 356.362 0)
+			(at 205.994 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9212,7 +9212,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_1_RES-EU")
-		(at 414.02 327.66 0)
+		(at 156.21 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9220,7 +9220,7 @@
 		(dnp no)
 		(uuid "2dfa1129-f6ad-4042-9ac3-bffad8e92204")
 		(property "Reference" "R122"
-			(at 411.48 326.644 0)
+			(at 153.67 134.874 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9229,7 +9229,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 411.48 331.216 0)
+			(at 153.67 139.446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9238,7 +9238,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:RESC1608X55N"
-			(at 414.02 327.66 0)
+			(at 156.21 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9247,7 +9247,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 414.02 327.66 0)
+			(at 156.21 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9256,7 +9256,7 @@
 			)
 		)
 		(property "Description" "10k res, 0402, 1%, 1/16W"
-			(at 414.02 327.66 0)
+			(at 156.21 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9265,7 +9265,7 @@
 			)
 		)
 		(property "MANUFACTURE PART NUMBER 1" "RC0603FR-070RL"
-			(at 408.432 326.644 0)
+			(at 150.622 134.874 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9291,7 +9291,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_1_RES-EU")
-		(at 414.02 337.82 0)
+		(at 156.21 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9299,7 +9299,7 @@
 		(dnp no)
 		(uuid "2fd389fa-2bfd-49d0-9559-c7b7367a262e")
 		(property "Reference" "R123"
-			(at 411.48 336.804 0)
+			(at 153.67 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9308,7 +9308,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 411.48 341.376 0)
+			(at 153.67 149.606 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9317,7 +9317,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:RESC1608X55N"
-			(at 414.02 337.82 0)
+			(at 156.21 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9326,7 +9326,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 414.02 337.82 0)
+			(at 156.21 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9335,7 +9335,7 @@
 			)
 		)
 		(property "Description" "10k res, 0402, 1%, 1/16W"
-			(at 414.02 337.82 0)
+			(at 156.21 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9344,7 +9344,7 @@
 			)
 		)
 		(property "MANUFACTURE PART NUMBER 1" "RC0603FR-070RL"
-			(at 408.432 336.804 0)
+			(at 150.622 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9370,7 +9370,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:VCCIO_BAR")
-		(at 497.84 280.67 180)
+		(at 240.03 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9378,7 +9378,7 @@
 		(dnp no)
 		(uuid "4b23d9a5-3907-4cf3-a90a-e85d2ff38a00")
 		(property "Reference" "#PWR0189"
-			(at 497.84 280.67 0)
+			(at 240.03 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9387,7 +9387,7 @@
 			)
 		)
 		(property "Value" "VCCIO"
-			(at 497.84 276.86 0)
+			(at 240.03 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9395,7 +9395,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 497.84 280.67 0)
+			(at 240.03 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9404,7 +9404,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 497.84 280.67 0)
+			(at 240.03 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9413,7 +9413,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name 'VCCIO'"
-			(at 497.84 280.67 0)
+			(at 240.03 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9435,7 +9435,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:VCCIO_BAR")
-		(at 566.42 364.49 180)
+		(at 308.61 172.72 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9443,7 +9443,7 @@
 		(dnp no)
 		(uuid "5282d903-0dce-4e8e-8ad1-8f3e5656c1d4")
 		(property "Reference" "#PWR0190"
-			(at 566.42 364.49 0)
+			(at 308.61 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9452,7 +9452,7 @@
 			)
 		)
 		(property "Value" "VCCIO"
-			(at 566.42 360.68 0)
+			(at 308.61 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9460,7 +9460,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 566.42 364.49 0)
+			(at 308.61 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9469,7 +9469,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 566.42 364.49 0)
+			(at 308.61 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9478,7 +9478,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name 'VCCIO'"
-			(at 566.42 364.49 0)
+			(at 308.61 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9500,7 +9500,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:VCCIO_BAR")
-		(at 447.04 262.89 180)
+		(at 189.23 71.12 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9508,7 +9508,7 @@
 		(dnp no)
 		(uuid "5d8fc243-5670-47ed-9171-df23067d7cc5")
 		(property "Reference" "#PWR0106"
-			(at 447.04 262.89 0)
+			(at 189.23 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9517,7 +9517,7 @@
 			)
 		)
 		(property "Value" "VCCIO"
-			(at 447.04 259.08 0)
+			(at 189.23 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9525,7 +9525,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 447.04 262.89 0)
+			(at 189.23 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9534,7 +9534,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 447.04 262.89 0)
+			(at 189.23 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9543,7 +9543,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name 'VCCIO'"
-			(at 447.04 262.89 0)
+			(at 189.23 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9565,7 +9565,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_61a724e6190563596ac712fef61ad37")
-		(at 350.52 327.66 0)
+		(at 92.71 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9573,7 +9573,7 @@
 		(dnp no)
 		(uuid "63c6af00-339e-4e33-a931-57d8f0870654")
 		(property "Reference" "Y2"
-			(at 355.6 325.12 0)
+			(at 97.79 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9582,7 +9582,7 @@
 			)
 		)
 		(property "Value" "ASE-25.000MHZ-LC-T"
-			(at 355.6 340.36 0)
+			(at 97.79 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9591,7 +9591,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:FP-ASE-MFG"
-			(at 350.52 327.66 0)
+			(at 92.71 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9600,7 +9600,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 350.52 327.66 0)
+			(at 92.71 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9609,7 +9609,7 @@
 			)
 		)
 		(property "Description" "XTAL Oscillator 25MHz ±50ppm CMOS 3.3V 4-SMD 3.2mm x 2.5mm"
-			(at 350.52 327.66 0)
+			(at 92.71 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9640,7 +9640,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:VCCIO_BAR")
-		(at 335.28 322.58 180)
+		(at 77.47 130.81 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9648,7 +9648,7 @@
 		(dnp no)
 		(uuid "68fb3326-72b1-4353-a732-69f4b25f422d")
 		(property "Reference" "#PWR0101"
-			(at 335.28 322.58 0)
+			(at 77.47 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9657,7 +9657,7 @@
 			)
 		)
 		(property "Value" "VCCIO"
-			(at 335.28 318.77 0)
+			(at 77.47 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9665,7 +9665,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 335.28 322.58 0)
+			(at 77.47 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9674,7 +9674,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 335.28 322.58 0)
+			(at 77.47 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9683,7 +9683,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name 'VCCIO'"
-			(at 335.28 322.58 0)
+			(at 77.47 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9705,7 +9705,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:GND_POWER_GROUND")
-		(at 381 314.96 0)
+		(at 123.19 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9713,7 +9713,7 @@
 		(dnp no)
 		(uuid "6bb12a92-a70d-4805-a0ab-8cea3d6fd126")
 		(property "Reference" "#PWR0102"
-			(at 381 314.96 0)
+			(at 123.19 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9722,7 +9722,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 381 321.31 0)
+			(at 123.19 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9730,7 +9730,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 381 314.96 0)
+			(at 123.19 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9739,7 +9739,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 381 314.96 0)
+			(at 123.19 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9748,7 +9748,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name 'GND'"
-			(at 381 314.96 0)
+			(at 123.19 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9770,7 +9770,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:VCCIO_BAR")
-		(at 472.44 354.33 180)
+		(at 214.63 162.56 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9778,7 +9778,7 @@
 		(dnp no)
 		(uuid "73d74a98-13c7-4505-909d-3cf1c73c91fa")
 		(property "Reference" "#PWR0107"
-			(at 472.44 354.33 0)
+			(at 214.63 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9787,7 +9787,7 @@
 			)
 		)
 		(property "Value" "VCCIO"
-			(at 472.44 350.52 0)
+			(at 214.63 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9795,7 +9795,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 472.44 354.33 0)
+			(at 214.63 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9804,7 +9804,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 472.44 354.33 0)
+			(at 214.63 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9813,7 +9813,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name 'VCCIO'"
-			(at 472.44 354.33 0)
+			(at 214.63 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9835,7 +9835,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:GND_POWER_GROUND")
-		(at 566.42 377.19 0)
+		(at 308.61 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9843,7 +9843,7 @@
 		(dnp no)
 		(uuid "7ad6725c-5b60-45c0-907a-2367224608b7")
 		(property "Reference" "#PWR0191"
-			(at 566.42 377.19 0)
+			(at 308.61 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9852,7 +9852,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 566.42 383.54 0)
+			(at 308.61 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9860,7 +9860,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 566.42 377.19 0)
+			(at 308.61 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9869,7 +9869,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 566.42 377.19 0)
+			(at 308.61 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9878,7 +9878,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name 'GND'"
-			(at 566.42 377.19 0)
+			(at 308.61 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9900,7 +9900,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_RES-EU")
-		(at 469.9 372.11 0)
+		(at 212.09 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9908,7 +9908,7 @@
 		(dnp no)
 		(uuid "8f8109ca-fa0a-4bec-90a3-6b1b89193a00")
 		(property "Reference" "R120"
-			(at 470.916 372.11 0)
+			(at 213.106 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9917,7 +9917,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 470.916 374.65 0)
+			(at 213.106 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9926,7 +9926,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:RESC1005X40N"
-			(at 469.9 372.11 0)
+			(at 212.09 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9935,7 +9935,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 469.9 372.11 0)
+			(at 212.09 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9944,7 +9944,7 @@
 			)
 		)
 		(property "Description" "10k res, 0402, 1%, 1/16W"
-			(at 469.9 372.11 0)
+			(at 212.09 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9953,7 +9953,7 @@
 			)
 		)
 		(property "MANUFACTURE PART NUMBER 1" "RC0402FR-07100KL"
-			(at 468.884 366.522 0)
+			(at 211.074 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9979,7 +9979,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_RES-EU")
-		(at 447.04 273.05 0)
+		(at 189.23 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9987,7 +9987,7 @@
 		(dnp no)
 		(uuid "90f2e107-4ce2-4d85-adcc-800c561d0cc8")
 		(property "Reference" "R6"
-			(at 449.58 273.05 0)
+			(at 191.77 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9996,7 +9996,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 449.58 275.59 0)
+			(at 191.77 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10005,7 +10005,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:RESC1608X55N"
-			(at 447.04 273.05 0)
+			(at 189.23 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10014,7 +10014,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 447.04 273.05 0)
+			(at 189.23 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10023,7 +10023,7 @@
 			)
 		)
 		(property "Description" "10k res, 0402, 1%, 1/16W"
-			(at 447.04 273.05 0)
+			(at 189.23 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10032,7 +10032,7 @@
 			)
 		)
 		(property "MANUFACTURE PART NUMBER 1" "RC0603FR-071KL"
-			(at 446.024 267.462 0)
+			(at 188.214 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10058,7 +10058,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_Header 3X2")
-		(at 546.1 364.49 0)
+		(at 288.29 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10066,7 +10066,7 @@
 		(dnp no)
 		(uuid "9e0455ea-7f2f-4771-a198-bfb874fe7c85")
 		(property "Reference" "P10"
-			(at 546.1 364.49 0)
+			(at 288.29 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10075,7 +10075,7 @@
 			)
 		)
 		(property "Value" "Header 3X2"
-			(at 546.1 377.19 0)
+			(at 288.29 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10084,7 +10084,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:HDR2X3"
-			(at 546.1 364.49 0)
+			(at 288.29 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10093,7 +10093,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 546.1 364.49 0)
+			(at 288.29 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10102,7 +10102,7 @@
 			)
 		)
 		(property "Description" "Header, 3-Pin, Dual row"
-			(at 546.1 364.49 0)
+			(at 288.29 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10139,7 +10139,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_RES-EU")
-		(at 474.98 361.95 0)
+		(at 217.17 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10147,7 +10147,7 @@
 		(dnp no)
 		(uuid "a6025ef3-be42-455e-a929-a74d6e89eef5")
 		(property "Reference" "R119"
-			(at 475.996 361.95 0)
+			(at 218.186 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10156,7 +10156,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 475.996 364.49 0)
+			(at 218.186 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10165,7 +10165,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:RESC1005X40N"
-			(at 474.98 361.95 0)
+			(at 217.17 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10174,7 +10174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 474.98 361.95 0)
+			(at 217.17 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10183,7 +10183,7 @@
 			)
 		)
 		(property "Description" "10k res, 0402, 1%, 1/16W"
-			(at 474.98 361.95 0)
+			(at 217.17 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10192,7 +10192,7 @@
 			)
 		)
 		(property "MANUFACTURE PART NUMBER 1" "RC0402FR-07100KL"
-			(at 473.964 356.362 0)
+			(at 216.154 164.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10218,7 +10218,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_RES-EU")
-		(at 480.06 372.11 0)
+		(at 222.25 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10226,7 +10226,7 @@
 		(dnp no)
 		(uuid "b06a27d2-1391-4e8d-bc3a-aee67b241f02")
 		(property "Reference" "R121"
-			(at 481.076 372.11 0)
+			(at 223.266 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10235,7 +10235,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 481.076 374.65 0)
+			(at 223.266 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10244,7 +10244,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:RESC1005X40N"
-			(at 480.06 372.11 0)
+			(at 222.25 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10253,7 +10253,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 480.06 372.11 0)
+			(at 222.25 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10262,7 +10262,7 @@
 			)
 		)
 		(property "Description" "10k res, 0402, 1%, 1/16W"
-			(at 480.06 372.11 0)
+			(at 222.25 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10271,7 +10271,7 @@
 			)
 		)
 		(property "MANUFACTURE PART NUMBER 1" "RC0402FR-07100KL"
-			(at 479.044 366.522 0)
+			(at 221.234 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10297,7 +10297,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_XLNX-XC7A35T-CSG324")
-		(at 533.4 265.43 0)
+		(at 275.59 73.66 0)
 		(unit 6)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10305,7 +10305,7 @@
 		(dnp no)
 		(uuid "b1eca287-ec0b-4bd8-a583-63dbfa87dfce")
 		(property "Reference" "U4"
-			(at 533.4 265.43 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10314,7 +10314,7 @@
 			)
 		)
 		(property "Value" "XC7A35T-1CSG324C"
-			(at 533.4 331.47 0)
+			(at 275.59 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10323,7 +10323,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:CSG324"
-			(at 533.4 265.43 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10332,7 +10332,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 533.4 265.43 0)
+			(at 275.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10341,7 +10341,7 @@
 			)
 		)
 		(property "Description" "Artix-7 FPGA, 210 User I/Os, 0 GTP, 324-Ball BGA, Speed Grade 1, Commercial Grade, Pb-Free"
-			(at 538.988 261.62 0)
+			(at 281.178 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11332,7 +11332,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:GND_POWER_GROUND")
-		(at 396.24 342.9 0)
+		(at 138.43 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11340,7 +11340,7 @@
 		(dnp no)
 		(uuid "b4421ea5-7006-464f-baf2-eda85abfd3dc")
 		(property "Reference" "#PWR0103"
-			(at 396.24 342.9 0)
+			(at 138.43 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11349,7 +11349,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 396.24 349.25 0)
+			(at 138.43 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11357,7 +11357,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 396.24 342.9 0)
+			(at 138.43 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11366,7 +11366,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 396.24 342.9 0)
+			(at 138.43 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11375,7 +11375,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name 'GND'"
-			(at 396.24 342.9 0)
+			(at 138.43 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11397,7 +11397,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_RES-EU")
-		(at 467.36 273.05 0)
+		(at 209.55 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11405,7 +11405,7 @@
 		(dnp no)
 		(uuid "d9780061-07d2-4c42-8e09-46e9048ab93b")
 		(property "Reference" "R134"
-			(at 469.9 273.05 0)
+			(at 212.09 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11414,7 +11414,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 469.9 275.59 0)
+			(at 212.09 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11423,7 +11423,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:RESC1608X55N"
-			(at 467.36 273.05 0)
+			(at 209.55 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11432,7 +11432,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 467.36 273.05 0)
+			(at 209.55 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11441,7 +11441,7 @@
 			)
 		)
 		(property "Description" "10k res, 0402, 1%, 1/16W"
-			(at 467.36 273.05 0)
+			(at 209.55 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11450,7 +11450,7 @@
 			)
 		)
 		(property "MANUFACTURE PART NUMBER 1" "RC0603FR-071KL"
-			(at 466.344 267.462 0)
+			(at 208.534 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11476,7 +11476,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_a78650ae27aee94b64e9c93150c7d5d")
-		(at 439.42 384.81 0)
+		(at 181.61 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11484,7 +11484,7 @@
 		(dnp no)
 		(uuid "e18278be-55f5-4793-a846-d1df81048cf9")
 		(property "Reference" "SW1"
-			(at 443.992 379.73 0)
+			(at 186.182 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11493,7 +11493,7 @@
 			)
 		)
 		(property "Value" "218-4LPSTR"
-			(at 443.992 407.67 0)
+			(at 186.182 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11502,7 +11502,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:FP-218-4LPSTR-MFG"
-			(at 439.42 384.81 0)
+			(at 181.61 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11511,7 +11511,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 439.42 384.81 0)
+			(at 181.61 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11520,7 +11520,7 @@
 			)
 		)
 		(property "Description" "SWITCH SLIDE DIP SPST 25MA 24V"
-			(at 439.42 384.81 0)
+			(at 181.61 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11563,7 +11563,7 @@
 	)
 	(symbol
 		(lib_id "SONATA-ONE-symbols:root_0_RES-EU")
-		(at 457.2 273.05 0)
+		(at 199.39 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11571,7 +11571,7 @@
 		(dnp no)
 		(uuid "f048b6a5-7176-4ae9-95cc-bc7550c5b2d5")
 		(property "Reference" "R5"
-			(at 459.74 273.05 0)
+			(at 201.93 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11580,7 +11580,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 459.74 275.59 0)
+			(at 201.93 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11589,7 +11589,7 @@
 			)
 		)
 		(property "Footprint" "SONATA-ONE-LIBRARY:RESC1608X55N"
-			(at 457.2 273.05 0)
+			(at 199.39 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11598,7 +11598,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 457.2 273.05 0)
+			(at 199.39 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11607,7 +11607,7 @@
 			)
 		)
 		(property "Description" "10k res, 0402, 1%, 1/16W"
-			(at 457.2 273.05 0)
+			(at 199.39 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11616,7 +11616,7 @@
 			)
 		)
 		(property "MANUFACTURE PART NUMBER 1" "RC0603FR-071KL"
-			(at 456.184 267.462 0)
+			(at 198.374 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)

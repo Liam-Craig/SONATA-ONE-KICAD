@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "a91caf9c-02bb-4c55-9e9e-065963894663")
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(title "<Enter Sheet Title>")
 	)
