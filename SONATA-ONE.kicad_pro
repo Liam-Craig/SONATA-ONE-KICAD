@@ -2007,7 +2007,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "Sonata_Page_Template.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -2022,6 +2022,86 @@
     [
       "e7c9b7db-69aa-4c96-995e-e694ce2e3dcf",
       "Root"
+    ],
+    [
+      "3cef9bb3-ee65-4fec-8702-3f1c6ea3e194",
+      "Mechanical"
+    ],
+    [
+      "7f0e0365-ab03-46c8-a501-91ffcf04aaeb",
+      "Debug USB and Power In"
+    ],
+    [
+      "1f088b25-c1bd-4ecd-9890-81ab13ac5b52",
+      "USB Hub"
+    ],
+    [
+      "59c4ccb9-cfc6-4ef7-b386-6ed1f8de6a07",
+      "Header Pins"
+    ],
+    [
+      "168e6163-a087-47f1-a37d-9801d4dec010",
+      "RP2040"
+    ],
+    [
+      "7937d6ae-ca8b-45d4-9683-014a1bbdc6c7",
+      "RS485, RS232, ETH Connectors"
+    ],
+    [
+      "3168eee3-d240-4660-a5a1-42b7a4b80d24",
+      "FTDI Debug"
+    ],
+    [
+      "430a53b7-ee53-4265-90db-2e1c4b1da513",
+      "LEDs and Switches"
+    ],
+    [
+      "f03dfe48-05b0-4213-93f1-44cf6de83bf2",
+      "MicroSD Slot"
+    ],
+    [
+      "90404ece-d271-48c3-b5ed-1b4b91a859d0",
+      "Ethernet MAC"
+    ],
+    [
+      "3cb6f269-0c7d-4a47-8198-5810c37761d6",
+      "FPGA Config"
+    ],
+    [
+      "026c3fcf-db44-499b-be06-507db3717cc9",
+      "IO Banks 14 + 34 + Flash"
+    ],
+    [
+      "fe345d53-9904-4475-9a77-238a1e81fe1d",
+      "IO Banks 15 + 16"
+    ],
+    [
+      "bc18b77b-c6e1-4317-947c-0760940103d5",
+      "FPGA Power"
+    ],
+    [
+      "1b08b705-de34-4773-b2cf-436827235fae",
+      "FPGA Analog + 1.8V Bank"
+    ],
+    [
+      "4a9a9182-7d24-4364-b852-78e06c69ddf1",
+      "Analog Conversion"
+    ],
+    [
+      "b5a3ce17-af04-4bd2-8987-e8ce0a8bcdf5",
+      "SMPS"
+    ],
+    [
+      "6a068e36-b913-4ef6-a709-68856484fdb6",
+      "USB Phy"
+    ],
+    [
+      "f66d85cc-5f5f-48ed-aee4-912fd2c7949d",
+      "HyperRAM"
+    ],
+    [
+      "f6a77b9e-ab88-4a65-a3d4-368bcfd5fb79",
+      "LCD"
     ]
   ],
   "text_variables": {}
