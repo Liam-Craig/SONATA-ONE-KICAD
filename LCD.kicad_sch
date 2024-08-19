@@ -5,7 +5,11 @@
 	(uuid "6597f8fa-791b-48b8-87db-7db295248902")
 	(paper "A3")
 	(title_block
-		(title "<Enter Sheet Title>")
+		(title "NAE-SONATA-ONE")
+		(date "2024-08-16")
+		(rev "10")
+		(company "NewAE Technology")
+		(comment 2 "Apache-2")
 	)
 	(lib_symbols
 		(symbol "SONATA-ONE-symbols:GND_POWER_GROUND"
